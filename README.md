@@ -1,6 +1,6 @@
 Machine learning algorithms are classified into 4 types:
 
-Supervised and
-Unsupervised Learning
-Semi-supervised Learning
-Reinforcement Learning
+1. Supervised and
+2. Unsupervised Learning
+3. Semi-supervised Learning
+4. Reinforcement Learning
